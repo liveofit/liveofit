@@ -15,10 +15,11 @@ Im an uruguayan fullstack dev with strong knowledge in `devops` tasks and `cloud
 
 I have been working on a large number of projects and a wide variety of types, always within web projects.
 
-I started my first big projects programming in `.NET` and `python`, after that, I switched to `Javascript` and since the change I have always kept profiling myself to Javascript.
+As fullstack, my favorite stack is `Typescript`. I've worked in some projects with REST stack using `React/Redux`, `Node/Express` and other projects with `GraphQL` using `Apollo server`, `React/Apollo client`, some projects builded to static assets and others with SSR and `Next.js`.
+
+Speaking of `Devops`, I'm AWS teacher. I've worked for a long time with `ANSIBLE` and `ANSIBLE TOWER` to manage and automatize deployments and infrastructure and I have extensive knowledge in docker. In the projects, I deploy in multiple scenarios with CI/CD using deferent services like `heroku`, `firebase`, `aws`, `vercel`, etc, and `github actions`, `bitbucket pipelines`, `aws codepipeline`, and others.
 
 I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
-
 
 ### Languages and Tools:
 
@@ -37,9 +38,6 @@ I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
 
 <br />
 <br />
-
----
-
 <br />
 
 ## Stats

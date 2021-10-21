@@ -23,8 +23,13 @@ I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<img align="left" alt="Javascript" width="26px" src="./static/javascript.jpg" />
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
 <img align="left" alt="GitHub" width="26px" src="./static/github.svg" />
+<img align="left" alt="Typescript" width="26px" src="./static/typescript.png" />
+<img align="left" alt="Ansible" width="26px" src="./static/ansible1.png" />
+<img align="left" alt="Docker" width="26px" src="./static/docker.png" />
+<img align="left" alt="AWS" width="26px" src="./static/aws.png" />
 
 <br />
 <br />
@@ -32,6 +37,8 @@ I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Jira" width="26px" src="./static/jira.png" />
 
 
 <br />

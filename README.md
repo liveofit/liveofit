@@ -13,9 +13,9 @@ I'm Nacho!
 Im an uruguayan fullstack dev with strong knowledge in `devops` tasks and `cloud` infrastructures.
 <!-- <a href="https://ibary.info" target="_blank"><img align="left" alt="ibary.info" width="22px" src="./static/www.svg" /></a> -->
 
-As fullstack, I have been working in a large number of web projects and my favorite stack is `Typescript/GraphQl`. I've worked in some projects with `REST` stack using `React/Redux`, `Node/Express` and other projects with `GraphQL` using `Apollo server`, `React/Apollo client`, some projects builded to static assets and others with SSR and `Next.js`.
+As fullstack, I have been working in a large number of web projects and my favorite stack is `Typescript/GraphQl`. I've worked in some projects with `REST` stack using `React/Redux`, `Node/Express` and others with `GraphQL` using `Apollo server`, `React/Apollo client`, between them some builded to static assets and others with SSR and `Next.js`.
 
-Speaking about `Devops`, I'm AWS teacher. I've worked for a long time with `ANSIBLE` and `ANSIBLE TOWER` to manage and automatize deployments and infrastructure, this is complemented with an extensive knowledge in docker. About projects, I've deployed them in multiple scenarios using deferent services like `heroku`, `firebase`, `aws`, `vercel`, etc, and `github actions`, `bitbucket pipelines`, `aws codepipeline` for `CI/CD`.
+Speaking about `Devops`, I'm an AWS teacher. I've worked for a long time with `ANSIBLE` and `ANSIBLE TOWER` to manage and automatize deployments and infrastructure, this is complemented with an extensive knowledge in docker. About projects, I've deployed them in multiple scenarios using deferent services like `heroku`, `firebase`, `aws`, `vercel`, etc, and `github actions`, `bitbucket pipelines`, `aws codepipeline` for `CI/CD`.
 
 I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
 

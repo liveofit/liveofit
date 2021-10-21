@@ -47,10 +47,9 @@ I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=liveofit&hide_title=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
+[![Nacho's github stats](https://github-readme-stats.vercel.app/api?username=liveofit&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/liveofit/github-readme-stats)
 
-
-[![Nacho's github stats](https://github-readme-stats.vercel.app/api?username=liveofit&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/liveofit/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=liveofit&hide_title=true&show_icons=true&theme=midnight-purple)
 
 <br />
 <br />

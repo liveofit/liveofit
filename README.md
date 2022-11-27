@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Nacho!
+I'm Ignacio Barreto (Nacho)!
 
 <a href="https://linkedin.com/in/ibarretorey" target="_blank"><img align="left" alt="Ignacio Barreto | LinkedIn" width="22px" src="./static/linkedin.svg" /></a>
 <a href="https://instagram.com/ibarretorey" target="_blank"><img align="left" alt="Ignacio Barreto | Instagram" width="22px" src="./static/insta.svg" /></a>
@@ -10,52 +10,67 @@ I'm Nacho!
 <br />
 <br />
 
-Im an uruguayan fullstack dev with strong knowledge in `devops` tasks and `cloud` infrastructures.
-<!-- <a href="https://ibary.info" target="_blank"><img align="left" alt="ibary.info" width="22px" src="./static/www.svg" /></a> -->
+I am an uruguayan fullstack developer, passionate about technology with strong knowledge in `devops` and `cloud`.
 
-As fullstack, I have been working in a large number of web projects and my favorite stack is `Typescript/GraphQL`. I've worked in many projects with `REST` stack using `React/Redux`, `Node/Express` and others with `GraphQL` using `Apollo server`, `React/Apollo client`, between them some builded to static assets and others with SSR and `Next.js`.
+I love `mate`, `coffee`, coding in `Typescript`, designing scalable and robust `architectures`, establishing `branching strategies` and implementing `CI/CD`.
 
-Speaking about `Devops`, I'm an AWS teacher. I've worked for a long time with `ANSIBLE` and `ANSIBLE TOWER` to manage and automatize deployments and infrastructure, this is complemented with an extensive knowledge in docker. About projects, I've deployed them in multiple scenarios using deferent services like `heroku`, `firebase`, `aws`, `vercel`, etc, and `github actions`, `bitbucket pipelines`, `aws codepipeline` for `CI/CD`.
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I love the `mate`, `coffe` and coding `Typescript` on my `VsCode`
+```typescript
+const nacho = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "TypeScript", "Ansible"],
+    askMeAbout: ["web dev", "tech", "app dev", "design patterns" "architecture", "cloud"],
+    technologies: {
+        backEnd: {
+            ts: ["Node", "Express", "Rest", "GraphQL"],
+        },
+        web: {
+            react: ["html", "css", "Redux", "Apollo Client", "RxJs"]
+        },
+        devOps: ["AWS", "Firebase", "Google Cloud", "Docker", "K8s", "Ansible", "Jenkins", "Github Actions", "Bitbucket pipelines"],
+        databases: ["Postgres", "MySql", "sqlite"],
+    },
+    architecture: ["Microservices", "Serverless", "Progressive web applications", "Single page applications"]
+};
+```
 
-### Languages and Tools:
+## Things I use on a daily basis
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<img align="left" alt="Javascript" width="26px" src="./static/javascript.jpg" />
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></a>
-<img align="left" alt="GitHub" width="26px" src="./static/github.svg" />
-<img align="left" alt="Typescript" width="26px" src="./static/typescript.png" />
-<img align="left" alt="Ansible" width="26px" src="./static/ansible1.png" />
-<img align="left" alt="Docker" width="26px" src="./static/docker.png" />
-<img align="left" alt="AWS" width="26px" src="./static/aws.png" />
+<p align="left">  
+<a href="https://github.com/liveonit/readme-components">
+ <img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+</a>
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=764abc">  
+</a>
+  <a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/liveonit/readme-components">
+ <img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=0db7ed">
+</a>
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=kubernetes&svgfill=0db7ed">
+</a>
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=github">
 
-<br />
-<br />
 
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="Jira" width="26px" src="./static/jira.png" />
-
-
-<br />
-<br />
-<br />
-
-## Stats
-
-[![Nacho's github stats](https://github-readme-stats.vercel.app/api?username=liveofit&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/liveofit/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=liveofit&hide_title=true&show_icons=true&theme=midnight-purple)
-
-<br />
-<br />
-
-### Now Playing 🎧
-
-[![Spotify](https://spotify-playing-now-six.vercel.app/api/spotify)](https://open.spotify.com/user/22mo2qebajoml4yq76zubglmi)
-<br/>
----
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a>
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/liveonit/readme-components">
+<img  src="https://readme-components-mu.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+</a>
+</p>

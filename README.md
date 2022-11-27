@@ -25,13 +25,14 @@ const nacho = {
         backEnd: {
             ts: ["Node", "Express", "Rest", "GraphQL"],
         },
-        web: {
-            react: ["html", "css", "Redux", "Apollo Client", "RxJs"]
+        front: {
+            web: ["JS", "HTML", "CSS", "React" "Redux", "Apollo Client", "RxJs"]
         },
         devOps: ["AWS", "Firebase", "Google Cloud", "Docker", "K8s", "Ansible", "Jenkins", "Github Actions", "Bitbucket pipelines"],
         databases: ["Postgres", "MySql", "sqlite"],
     },
-    architecture: ["Microservices", "Serverless", "Progressive web applications", "Single page applications"]
+    architecture: ["IaaS", "PaaS", "SaaS", "Microservices", "Serverless"]
+    cloud: ["AWS", "Firebase", "Google Cloud", "Vercel", "Heroku"]
 };
 ```
 

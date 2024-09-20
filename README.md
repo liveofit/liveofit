@@ -20,18 +20,18 @@ I love `mate`, `coffee`, coding in `Typescript`, designing scalable and robust `
 const nacho = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "Ansible"],
-    askMeAbout: ["web dev", "tech", "app dev", "design patterns" "architecture", "cloud"],
+    askMeAbout: ["web dev", "tech", "app dev", "design patterns", "architecture", "cloud"],
     technologies: {
         backEnd: {
             ts: ["Node", "Express", "Rest", "GraphQL"],
         },
         front: {
-            web: ["JS", "HTML", "CSS", "React" "Redux", "Apollo Client", "RxJs"]
+            web: ["JS", "HTML", "CSS", "React", "Redux", "Apollo Client", "RxJs"]
         },
         devOps: ["AWS", "Firebase", "Google Cloud", "Docker", "K8s", "Ansible", "Jenkins", "Github Actions", "Bitbucket pipelines"],
         databases: ["Postgres", "MySql", "sqlite"],
     },
-    architecture: ["IaaS", "PaaS", "SaaS", "Microservices", "Serverless"]
+    architecture: ["IaaS", "PaaS", "SaaS", "Microservices", "Serverless"],
     cloud: ["AWS", "Firebase", "Google Cloud", "Vercel", "Heroku"]
 };
 ```
